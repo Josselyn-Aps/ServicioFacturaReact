@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ServicioFacturaReact/static/css/main.25b810ba.css",
+    "main.js": "/ServicioFacturaReact/static/js/main.4f6f2fd9.js",
+    "static/media/logo.svg": "/ServicioFacturaReact/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/ServicioFacturaReact/index.html",
+    "main.25b810ba.css.map": "/ServicioFacturaReact/static/css/main.25b810ba.css.map",
+    "main.4f6f2fd9.js.map": "/ServicioFacturaReact/static/js/main.4f6f2fd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25b810ba.css",
+    "static/js/main.4f6f2fd9.js"
+  ]
+}
